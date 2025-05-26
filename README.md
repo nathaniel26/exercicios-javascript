@@ -4,7 +4,7 @@ Este repositório contém uma série de exercícios práticos em JavaScript, foc
 
 ## Objetivo
 
-Praticar e fortalecer os conceitos fundamentais do JavaScript para criar uma base sólida que permita a evolução para projetos mais avançados, incluindo interação visual e manipulação de DOM.
+Praticar e fortalecer os conceitos fundamentais do JavaScript para criar uma base sólida que permita a evolução para projetos mais avançados.
 
 ## 📝 Estrutura das Pastas
 
