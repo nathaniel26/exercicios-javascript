@@ -49,12 +49,12 @@ Se o exercício usar funções como `prompt()` ou `alert()`, crie um arquivo HTM
     <script src="caminho-do-arquivo.js"></script>
   </body>
 </html>
-
+```
 
 No arquivo HTML, substitua caminho-do-arquivo.js pelo caminho correto do exercício que deseja executar. Abra o arquivo no navegador para rodar o código.
 
-Como Contribuir
+## Como Contribuir
 Sinta-se à vontade para adicionar novos exercícios ou aprimorar os existentes. Se fizer melhorias, envie um pull request.
 
-Licença
+## Licença
 Este repositório está licenciado sob a Licença MIT.
